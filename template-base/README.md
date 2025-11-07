@@ -1,4 +1,6 @@
-# This is an Example Template Repository
+# $values.name
+ 
+This is the $values.name service.
 
 The code in this folder is example code to be converted into a template throughout this Lab.
 
