@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-lab
+  description: Our 2nd main Backstage Demo Repository
+  annotations:
+    github.com/project-slug: TobiOrg/lab-backstage-basics
+spec:
+  type: service
+  lifecycle: experimental
+  owner: Backstage Users
